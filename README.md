@@ -7,6 +7,8 @@ This project is the first of three projects I am working on during my internship
 
 This project is the first of three projects undertaken during my internship at Codsoft. It focuses on building a machine learning model to predict SMS spam messages. The dataset used for training and evaluation is imported from Kaggle. The project leverages various technologies such as numpy, pandas, os, and nltk for data manipulation and natural language processing.
 
+![alt text](/SpamSms/image.png)
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
